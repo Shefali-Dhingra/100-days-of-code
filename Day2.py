@@ -1,4 +1,4 @@
-print("Tip Calculator")
+print("Tip Calculator!")
 
 bill = float(input("Enter Total bill amount: "))
 
